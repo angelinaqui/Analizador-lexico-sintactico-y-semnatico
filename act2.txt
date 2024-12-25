@@ -1,0 +1,13 @@
+real num ~ 50, x:
+caracter x_~'h ':
+real a1_, a2_, b3x_~3.62: 
+
+
+entero a1_,b3x_ ~ 35515 :
+
+real num ~ 50, x:
+real  x, num ~ 50:
+caracter x_~'h ':
+cadena letra ~"cadena hecha":
+entero a1_,b3x_ ~35515:
+real a1_,b3x_ ~ 35.515 :

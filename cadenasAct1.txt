@@ -1,0 +1,14 @@
+aabbcc
+bbcc
+abbcc
+bbbbbccccc
+aabc
+bc
+bbbccc
+aabc
+
+aa
+abbc
+aaabbccc
+bbacc
+abbbbcc
